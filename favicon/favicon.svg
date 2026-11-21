@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="tf">
+  <title id="tf">JECILLÉ</title>
+  <defs>
+    <radialGradient id="b" cx="50%" cy="35%" r="80%">
+      <stop offset="0" stop-color="#3A2350"/><stop offset="1" stop-color="#100817"/>
+    </radialGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAD6AE"/><stop offset="1" stop-color="#A98550"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="15" fill="url(#b)" stroke="url(#g)" stroke-width="1.4"/>
+  <path d="M23 20 C23 15 27 13 31 13 C35 13 38 15 38 20 L38 42 C38 50 33 54 27 53 C21.5 52 19 48 19 43.5 C19 39.5 21.5 37 25 37 C27 37 28.5 38 29.5 39.5" fill="none" stroke="url(#g)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(43 31) scale(0.23)" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 8 C-26 -18 -34 -60 -12 -82 C-2 -62 2 -32 0 8 Z"/>
+    <path d="M0 8 C26 -18 34 -60 12 -82 C2 -62 -2 -32 0 8 Z"/>
+    <path d="M0 10 C-48 -6 -70 -40 -58 -66 C-34 -56 -14 -30 0 10 Z"/>
+    <path d="M0 10 C48 -6 70 -40 58 -66 C34 -56 14 -30 0 10 Z"/>
+    <path d="M0 12 C-62 12 -84 -10 -80 -30 C-54 -32 -22 -14 0 12 Z"/>
+    <path d="M0 12 C62 12 84 -10 80 -30 C54 -32 22 -14 0 12 Z"/>
+    <path d="M0 12 L0 62"/>
+  </g>
+</svg>
